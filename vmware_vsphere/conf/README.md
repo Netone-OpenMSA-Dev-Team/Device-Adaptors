@@ -7,7 +7,7 @@ file variables also but will not do as of now.
 
 files:
 - device.properties
-- manageLinks.properties
+- features.properties
 - repository.properties
 
 
@@ -89,7 +89,9 @@ Example:
 in file manageLinks.properties:
 -------------------------------
 
-insert content from DA file
+from features.properties:
+
+insert content from DA conf file
 
 
 in file repository.properties:
